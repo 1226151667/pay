@@ -1,0 +1,20 @@
+{
+    "name": "dinglu/pay",
+    "description": "this is pay composer",
+    "type": "library",
+    "authors": [
+        {
+            "name": "jesslu",
+            "email": "jesslu@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pay\\": "src"
+        }
+    }
+}

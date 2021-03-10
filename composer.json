@@ -8,13 +8,12 @@
             "email": "jesslu@qq.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=7.0"
-    },
+    }
     "autoload": {
         "psr-4": {
-            "Pay\\": "src"
+            "Jesslu\\Pay\\": "src/"
         }
     }
 }

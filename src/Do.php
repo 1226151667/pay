@@ -1,5 +1,5 @@
 <?php
-namespace Pay;
+namespace Jesslu\Pay;
 
 class Do
 {

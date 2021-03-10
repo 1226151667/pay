@@ -7,8 +7,4 @@ class Pay
     {
         return $a * $b;
     }
-    public function get($c)
-    {
-        return $c + 1;
-    }
 }

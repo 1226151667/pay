@@ -2,6 +2,7 @@
     "name": "dinglu/pay",
     "description": "this is pay composer",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "jesslu",

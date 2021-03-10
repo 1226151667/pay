@@ -1,7 +1,7 @@
 <?php
-namespace Jesslu\Pay;
+namespace Pay;
 
-class Do
+class Pay
 {
     public function run($a, $b)
     {

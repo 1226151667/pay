@@ -11,7 +11,8 @@
     ],
     "require": {
         "php": ">=7.0",
-        "alipaysdk/easysdk": "^2.2"
+        "alipaysdk/easysdk": "^2.2",
+        "wechatpay/wechatpay-guzzle-middleware": "^0.2.0"
     },
     "autoload": {
         "psr-4": {

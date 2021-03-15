@@ -1,1 +1,3 @@
 # Pay Library
+Alipay
+Wechat
